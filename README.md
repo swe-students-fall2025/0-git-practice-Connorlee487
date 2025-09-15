@@ -23,4 +23,4 @@ It was nice of the article to include the differences between a Software Develop
 ## Article Interest
 (Nicole Zhang)
 
-I think the part on the practical impact on business operations was really interesting. It is intriguing to think about how swe directly can translate into "business value" 
+I think the part on the practical impact on business operations was really interesting. It is intriguing to think about how swe directly can translate into "business value" and also benefits 
