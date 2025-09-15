@@ -19,3 +19,8 @@ This comprehensive article by [Krissy Davis](https://www.wearedevelopers.com/en/
 (Evelynn Mak)
 
 It was nice of the article to include the differences between a Software Developer and a Software Engineer as I was not that aware of the differences between the two roles. I did not realize that software developers focused more on debugging. 
+
+## Article Interest
+(Nicole Zhang)
+
+I think the part on the practical impact on business operations was really interesting. It is intriguing to think about how swe directly can translate into "business value" and also benefits 
